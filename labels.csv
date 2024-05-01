@@ -1,101 +1,101 @@
-plant_name,image_name,toxicity,species_label
-Virginia creeper,0,0,1
-Virginia creeper,1,0,1
-Virginia creeper,2,0,1
-Virginia creeper,3,0,1
-Virginia creeper,4,0,1
-Virginia creeper,5,0,1
-Virginia creeper,6,0,1
-Virginia creeper,7,0,1
-Virginia creeper,8,0,1
-Virginia creeper,9,0,1
-Boxelder,10,0,2
-Boxelder,11,0,2
-Boxelder,12,0,2
-Boxelder,13,0,2
-Boxelder,14,0,2
-Boxelder,15,0,2
-Boxelder,16,0,2
-Boxelder,17,0,2
-Boxelder,18,0,2
-Boxelder,19,0,2
-Jack-in-the-pulpit,20,0,3
-Jack-in-the-pulpit,21,0,3
-Jack-in-the-pulpit,22,0,3
-Jack-in-the-pulpit,23,0,3
-Jack-in-the-pulpit,24,0,3
-Jack-in-the-pulpit,25,0,3
-Jack-in-the-pulpit,26,0,3
-Jack-in-the-pulpit,27,0,3
-Jack-in-the-pulpit,28,0,3
-Jack-in-the-pulpit,29,0,3
-Bear Oak,30,0,4
-Bear Oak,31,0,4
-Bear Oak,32,0,4
-Bear Oak,33,0,4
-Bear Oak,34,0,4
-Bear Oak,35,0,4
-Bear Oak,36,0,4
-Bear Oak,37,0,4
-Bear Oak,38,0,4
-Bear Oak,39,0,4
-Fragrant Sumac,40,0,5
-Fragrant Sumac,41,0,5
-Fragrant Sumac,42,0,5
-Fragrant Sumac,43,0,5
-Fragrant Sumac,44,0,5
-Fragrant Sumac,45,0,5
-Fragrant Sumac,46,0,5
-Fragrant Sumac,47,0,5
-Fragrant Sumac,48,0,5
-Fragrant Sumac,49,0,5
-Western Poison Oak,50,1,6
-Western Poison Oak,51,1,6
-Western Poison Oak,52,1,6
-Western Poison Oak,53,1,6
-Western Poison Oak,54,1,6
-Western Poison Oak,55,1,6
-Western Poison Oak,56,1,6
-Western Poison Oak,57,1,6
-Western Poison Oak,58,1,6
-Western Poison Oak,59,1,6
-Eastern Poison Oak,60,1,7
-Eastern Poison Oak,61,1,7
-Eastern Poison Oak,62,1,7
-Eastern Poison Oak,63,1,7
-Eastern Poison Oak,64,1,7
-Eastern Poison Oak,65,1,7
-Eastern Poison Oak,66,1,7
-Eastern Poison Oak,67,1,7
-Eastern Poison Oak,68,1,7
-Eastern Poison Oak,69,1,7
-Eastern Poison Ivy,70,1,8
-Eastern Poison Ivy,71,1,8
-Eastern Poison Ivy,72,1,8
-Eastern Poison Ivy,73,1,8
-Eastern Poison Ivy,74,1,8
-Eastern Poison Ivy,75,1,8
-Eastern Poison Ivy,76,1,8
-Eastern Poison Ivy,77,1,8
-Eastern Poison Ivy,78,1,8
-Eastern Poison Ivy,79,1,8
-Western Poison Ivy,80,1,9
-Western Poison Ivy,81,1,9
-Western Poison Ivy,82,1,9
-Western Poison Ivy,83,1,9
-Western Poison Ivy,84,1,9
-Western Poison Ivy,85,1,9
-Western Poison Ivy,86,1,9
-Western Poison Ivy,87,1,9
-Western Poison Ivy,88,1,9
-Western Poison Ivy,89,1,9
-Poison Sumac,90,1,10
-Poison Sumac,91,1,10
-Poison Sumac,92,1,10
-Poison Sumac,93,1,10
-Poison Sumac,94,1,10
-Poison Sumac,95,1,10
-Poison Sumac,96,1,10
-Poison Sumac,97,1,10
-Poison Sumac,98,1,10
-Poison Sumac,99,1,10
+plant_name,image_name,toxicity,species_label,is_train
+Virginia creeper,0,0,1,1
+Virginia creeper,1,0,1,1
+Virginia creeper,2,0,1,1
+Virginia creeper,3,0,1,1
+Virginia creeper,4,0,1,1
+Virginia creeper,5,0,1,1
+Virginia creeper,6,0,1,0
+Virginia creeper,7,0,1,0
+Virginia creeper,8,0,1,1
+Virginia creeper,9,0,1,1
+Boxelder,10,0,2,1
+Boxelder,11,0,2,1
+Boxelder,12,0,2,1
+Boxelder,13,0,2,1
+Boxelder,14,0,2,1
+Boxelder,15,0,2,0
+Boxelder,16,0,2,0
+Boxelder,17,0,2,1
+Boxelder,18,0,2,1
+Boxelder,19,0,2,1
+Jack-in-the-pulpit,20,0,3,1
+Jack-in-the-pulpit,21,0,3,1
+Jack-in-the-pulpit,22,0,3,1
+Jack-in-the-pulpit,23,0,3,0
+Jack-in-the-pulpit,24,0,3,0
+Jack-in-the-pulpit,25,0,3,1
+Jack-in-the-pulpit,26,0,3,1
+Jack-in-the-pulpit,27,0,3,1
+Jack-in-the-pulpit,28,0,3,1
+Jack-in-the-pulpit,29,0,3,1
+Bear Oak,30,0,4,1
+Bear Oak,31,0,4,1
+Bear Oak,32,0,4,1
+Bear Oak,33,0,4,0
+Bear Oak,34,0,4,0
+Bear Oak,35,0,4,1
+Bear Oak,36,0,4,1
+Bear Oak,37,0,4,1
+Bear Oak,38,0,4,1
+Bear Oak,39,0,4,1
+Fragrant Sumac,40,0,5,1
+Fragrant Sumac,41,0,5,1
+Fragrant Sumac,42,0,5,1
+Fragrant Sumac,43,0,5,1
+Fragrant Sumac,44,0,5,1
+Fragrant Sumac,45,0,5,1
+Fragrant Sumac,46,0,5,1
+Fragrant Sumac,47,0,5,0
+Fragrant Sumac,48,0,5,0
+Fragrant Sumac,49,0,5,1
+Western Poison Oak,50,1,6,1
+Western Poison Oak,51,1,6,1
+Western Poison Oak,52,1,6,1
+Western Poison Oak,53,1,6,1
+Western Poison Oak,54,1,6,1
+Western Poison Oak,55,1,6,1
+Western Poison Oak,56,1,6,0
+Western Poison Oak,57,1,6,0
+Western Poison Oak,58,1,6,1
+Western Poison Oak,59,1,6,1
+Eastern Poison Oak,60,1,7,1
+Eastern Poison Oak,61,1,7,1
+Eastern Poison Oak,62,1,7,1
+Eastern Poison Oak,63,1,7,1
+Eastern Poison Oak,64,1,7,1
+Eastern Poison Oak,65,1,7,1
+Eastern Poison Oak,66,1,7,1
+Eastern Poison Oak,67,1,7,1
+Eastern Poison Oak,68,1,7,0
+Eastern Poison Oak,69,1,7,0
+Eastern Poison Ivy,70,1,8,1
+Eastern Poison Ivy,71,1,8,1
+Eastern Poison Ivy,72,1,8,1
+Eastern Poison Ivy,73,1,8,1
+Eastern Poison Ivy,74,1,8,1
+Eastern Poison Ivy,75,1,8,1
+Eastern Poison Ivy,76,1,8,1
+Eastern Poison Ivy,77,1,8,1
+Eastern Poison Ivy,78,1,8,0
+Eastern Poison Ivy,79,1,8,0
+Western Poison Ivy,80,1,9,1
+Western Poison Ivy,81,1,9,1
+Western Poison Ivy,82,1,9,1
+Western Poison Ivy,83,1,9,1
+Western Poison Ivy,84,1,9,1
+Western Poison Ivy,85,1,9,1
+Western Poison Ivy,86,1,9,1
+Western Poison Ivy,87,1,9,1
+Western Poison Ivy,88,1,9,0
+Western Poison Ivy,89,1,9,0
+Poison Sumac,90,1,10,1
+Poison Sumac,91,1,10,1
+Poison Sumac,92,1,10,1
+Poison Sumac,93,1,10,1
+Poison Sumac,94,1,10,1
+Poison Sumac,95,1,10,1
+Poison Sumac,96,1,10,1
+Poison Sumac,97,1,10,1
+Poison Sumac,98,1,10,0
+Poison Sumac,99,1,10,0
